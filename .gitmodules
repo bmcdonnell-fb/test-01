@@ -1,0 +1,3 @@
+[submodule "testsub-01"]
+	path = testsub-01
+	url = https://github.com/bmcdonnell-fb/testsub-01.git
