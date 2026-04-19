@@ -1,3 +1,6 @@
 [submodule "testsub-01"]
-	path = testsub-01
+	path = libs/testsub-01
 	url = https://github.com/bmcdonnell-fb/testsub-01.git
+[submodule "libs/STM32CubeG0"]
+	path = libs/STM32CubeG0
+	url = https://github.com/STMicroelectronics/STM32CubeG0.git
